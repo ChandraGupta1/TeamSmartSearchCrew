@@ -1,0 +1,7 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Other files and directories to ignore
+__pycache__/
+.env
+config.ini
