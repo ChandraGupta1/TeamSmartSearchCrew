@@ -1,0 +1,5 @@
+atlassian-python-api
+configparser
+
+
+# pip install -r requirements.txt
